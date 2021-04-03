@@ -1,11 +1,17 @@
-<h1 align="center">✨ Hi my name is yMoonLight! ✨</h1>
+### Eae, Aqui é o Moon 
 
-## 🤔 Who are you?
-> I am a developer, currently I am focused on bots for [discord](https://discord.com/)
-## 💻 Which npm do you use?
-> Currently I use the npm of [discord.js](https://www.npmjs.com/package/discord.js).
-## 🐦 Github Status:
-![languages] ![profile]
+<!--
+**blackin22/blackin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-[languages]: https://github-readme-stats.vercel.app/api/top-langs/?username=yMoonLight&theme=midnight-purple
-[profile]: https://github-readme-stats.vercel.app/api?username=yMoonLight&show_icons=true&theme=midnight-purple
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=yMoonLight&show_icons=true)
+
+### Sobre mim:
+- Nome: Thiago.
+- Desenvolvedor Web | Desenvolvedor de bots
+- Idade: 14
+- Estudante.
+
+### Tecnlogias:
+-  ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+-  ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
