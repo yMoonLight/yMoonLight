@@ -2,8 +2,8 @@
 
 # 👋 › Hello.
 
-- Opa I'm leo, I develop some random things and play. Currently studying other programming languages. Uh, forgot to say, I'm from <strong>Brazil</strong>
-  - Website: <strong><a href="https://leoo.studio">leoo.studio</a></strong> 🔗
+- Opa eu sou o João, I develop some random things and play. Currently studying other programming languages. Uh, forgot to say, I'm from <strong>Brazil</strong>
+  - Website: <strong><a href="https://dicsty.tk">dicsty.tk</a></strong> 🔗
 
 <div align="center">
     <h2>🔧 › Skills:</h2>
@@ -20,7 +20,7 @@
 # 👾 › My Github **stats**:
 
 <div>
-  <a href="https://github.com/leoo027/">
+  <a href="https://github.com/jpporto0">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpporto0&show_icons=true&theme=dark">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpporto0&layout=compact&theme=dark">
     <br>
