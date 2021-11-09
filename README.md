@@ -1,18 +1,30 @@
-### 👋 Eae, Aqui é o Moon 
+<img align="right" src="https://cdn.discordapp.com/attachments/885521698265399326/907630910852182077/24.png" max-width="280px" width="280px" align="right">
 
-<!--
-**blackin22/blackin22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# 👋 › Hello.
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=yMoonLight&show_icons=true)
+- Opa I'm leo, I develop some random things and play. Currently studying other programming languages. Uh, forgot to say, I'm from <strong>Brazil</strong>
+  - Website: <strong><a href="https://leoo.studio">leoo.studio</a></strong> 🔗
 
-![Discord Presence](https://discord.c99.nl/widget/theme-1/524599512812224523.png)
+<div align="center">
+    <h2>🔧 › Skills:</h2>
+    <p align="center">
+        <img alt="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+        <img alt="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+        <img alt="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+        <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40"/>
+        <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+        <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="40"/>
+    </p>
+</div>
 
-### Sobre mim:
-- Nome: Thiago.
-- Desenvolvedor Web | Desenvolvedor de bots
-- Idade: 14
-- Estudante.
+# 👾 › My Github **stats**:
 
-<h3 align="left">:gear: <b>|</b> Linguagens e Ferramentas:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<div>
+  <a href="https://github.com/leoo027/">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpporto0&show_icons=true&theme=dark">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpporto0&layout=compact&theme=dark">
+    <br>
+    <img alt="Views" src="https://komarev.com/ghpvc/?username=jpporto0"> 
+    <img alt="Followers" src="https://img.shields.io/github/followers/jpporto0?style=flat&amp;logo=github&amp;label=Followers&amp;color=2D76BF">
+  </a>
+</div
